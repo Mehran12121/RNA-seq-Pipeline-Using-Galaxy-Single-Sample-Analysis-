@@ -1,3 +1,4 @@
+This project demonstrates a complete RNA-seq workflow from raw sequencing reads to gene expression quantification using Galaxy.
 # RNA-seq Pipeline Using Galaxy (Single Sample Analysis)
 
 ## 🔬 Objective
